@@ -17,8 +17,14 @@ Let's innovate together!</p>
     <a href="https://www.linkedin.com/in/kalp-mota-357514148/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <a href="https://leetcode.com/u/kalp12/">
+        <img src="https://img.shields.io/badge/Leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/kalpmegh2000">
+        <img src="https://img.shields.io/badge/Hackerrank-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank"/>
+    </a>
     <a href="https://github.com/kalp12" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+    <img src="https://img.shields.io/badge/GitHub.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=araj1695&style=for-the-badge" alt="Profile views" />
 </div>
