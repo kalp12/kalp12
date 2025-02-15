@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-    <h2>🔥 Featured Projects</h2>
+    <h2>🔥Featured Projects</h2>
     <p>Some of my highlighted projects:</p>
     <a href="https://github.com/kalp12/Food-ordering-django">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=Food-ordering-django&theme=radical" alt="Food-ordering-django"/>
