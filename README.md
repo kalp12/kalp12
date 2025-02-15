@@ -84,17 +84,17 @@
 <div align="center">
     <h2>🔥Featured Projects</h2>
     <p>Some of my highlighted projects:</p>
+    <a href="https://github.com/kalp12/Banglore-Home-Prices-prediction-using-ml">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=Banglore-Home-Prices-prediction-using-ml&theme=radical&show_icons=true" alt="Banglore-Home-Prices-prediction-using-ml"/>
+    </a>
     <a href="https://github.com/kalp12/Food-ordering-django">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=Food-ordering-django&theme=radical" alt="Food-ordering-django"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=Food-ordering-django&theme=radical&show_icons=true" alt="Food-ordering-django"/>
     </a>
     <a href="https://github.com/kalp12/automate-whatsapp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=automate-whatsapp&theme=radical" alt="automate-whatsapp"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=automate-whatsapp&theme=radical&show_icons=true" alt="automate-whatsapp"/>
     </a>
     <a href="https://github.com/kalp12/telegram_bot_python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=telegram_bot_python&theme=radical" alt="telegram_bot_python"/>
-    </a>
-    <a href="https://github.com/kalp12/Banglore-Home-Prices-prediction-using-ml">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=Banglore-Home-Prices-prediction-using-ml&theme=radical" alt="Banglore-Home-Prices-prediction-using-ml"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=telegram_bot_python&theme=radical&show_icons=true" alt="telegram_bot_python"/>
     </a>
 </div>
 
