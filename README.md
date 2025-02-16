@@ -84,6 +84,9 @@
 <div align="center">
     <h2>🔥Featured Projects</h2>
     <p>Some of my highlighted projects:</p>
+    <a href="https://github.com/kalp12/NomadNavigator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=NomadNavigator&theme=radical&show_icons=true" alt="NomadNavigator"/>
+    </a>
     <a href="https://github.com/kalp12/Banglore-Home-Prices-prediction-using-ml">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=Banglore-Home-Prices-prediction-using-ml&theme=radical&show_icons=true" alt="Banglore-Home-Prices-prediction-using-ml"/>
     </a>
