@@ -84,6 +84,12 @@
 <div align="center">
     <h2>🔥Featured Projects</h2>
     <p>Some of my highlighted projects:</p>
+    <a href="https://github.com/kalp12/Smart-Resume-Parser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=Smart-Resume-Parser&theme=radical&show_icons=true" alt="Smart-Resume-Parser"/>
+    </a>
+    <a href="https://github.com/kalp12/meet-analyzer-ai ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=meet-analyzer-ai&theme=radical&show_icons=true" alt="meet-analyzer-ai "/>
+    </a>
     <a href="https://github.com/kalp12/NomadNavigator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalp12&repo=NomadNavigator&theme=radical&show_icons=true" alt="NomadNavigator"/>
     </a>
